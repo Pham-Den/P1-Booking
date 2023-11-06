@@ -10,7 +10,7 @@ const hotelRouter = require("./router/hotelRouter");
 const transactionRouter = require("./router/transactionRouter");
 const roomRouter = require("./router/roomRouter");
 
-//
+/////
 //env để đọc file .env
 env.config();
 
